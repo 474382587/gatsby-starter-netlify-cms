@@ -11,4 +11,36 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
+description: >-
+ 
+intro:
+  blurbs:
+    - image: 
+      text: >
+        
+    - image: 
+      text: >
+       
+    - image: 
+      text: >
+        
+    - image: 
+      text: >
+       
+  heading: 
+  description: >
+    
+main:
+  heading: 
+  description: >
+   
+  image1:
+    alt: 
+    image: 
+  image2:
+    alt: 
+    image: 
+  image3:
+    alt: 
+    image: 
 ---
