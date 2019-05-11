@@ -5,12 +5,13 @@ image: /img/beach_of_dalao.jpg
 heading: 在前端的大海漂流，直到变成大佬
 subheading: 好记性不如烂笔头，光说不做假把式！
 mainpitch:
-  title: Why Kaldi
+  title: 从今天起，做一个快乐的人
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    对技术的热爱，对大厂的向往 —— 就从今天开始！
+    
+    --- 其实是要攒老婆本 
+    
+    欢迎群里朋友投稿！
 # description: >-
 #   Kaldi is the ultimate spot for coffee lovers who want to learn about their
 #   java’s origin and support the farmers that grew it. We take coffee production,
